@@ -1,0 +1,38 @@
+body{
+    color: #2a5171;
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header{
+    width: 100%;
+
+}
+
+.banner-img{
+    margin-top: 20px;
+}
+.footer-ul a {
+    
+    color: white;
+    text-decoration: none;
+    list-style: none;
+   
+}
+.footer-ul ul li {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+}
+.location-div{
+   text-align: center;
+    color: white;
+}
+.footer-div{
+    padding: 15px;
+    color: white;
+}
